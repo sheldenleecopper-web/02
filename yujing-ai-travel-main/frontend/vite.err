@@ -1,0 +1,138 @@
+[2m18:35:06[22m [31m[1m[vite][22m[39m [31mInternal server error: Element is missing end tag.[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/administrator/yujing-ai-travel-main/yujing-ai-travel-main/frontend/src/views/Home.vue[39m:2:3
+[33m  1  |  <template>
+  2  |    <div class="home-page">
+     |     ^
+  3  |      <NavBar />
+  4  |  [39m
+      at createCompilerError (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1378:17)
+      at emitError (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3036:5)
+      at Object.onclosetag (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2403:13)
+      at Tokenizer.stateInClosingTagName (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:799:16)
+      at Tokenizer.parse (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1157:16)
+      at Object.baseParse (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3075:13)
+      at Object.parse (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-dom\dist\compiler-dom.cjs.js:916:23)
+      at Object.parse$1 [as parse] (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-sfc\dist\compiler-sfc.cjs.js:1918:24)
+      at createDescriptor (file:///D:/administrator/yujing-ai-travel-main/yujing-ai-travel-main/frontend/node_modules/@vitejs/plugin-vue/dist/index.mjs:71:43)
+      at handleHotUpdate (file:///D:/administrator/yujing-ai-travel-main/yujing-ai-travel-main/frontend/node_modules/@vitejs/plugin-vue/dist/index.mjs:2198:26)
+[2m18:35:06[22m [31m[1m[vite][22m[39m [31mInternal server error: Element is missing end tag.[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/administrator/yujing-ai-travel-main/yujing-ai-travel-main/frontend/src/views/Home.vue[39m:2:3
+[33m  1  |  <template>
+  2  |    <div class="home-page">
+     |     ^
+  3  |      <NavBar />
+  4  |  [39m
+      at createCompilerError (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1378:17)
+      at emitError (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3036:5)
+      at Object.onclosetag (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2403:13)
+      at Tokenizer.stateInClosingTagName (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:799:16)
+      at Tokenizer.parse (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1157:16)
+      at Object.baseParse (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3075:13)
+      at Object.parse (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-dom\dist\compiler-dom.cjs.js:916:23)
+      at Object.parse$1 [as parse] (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-sfc\dist\compiler-sfc.cjs.js:1918:24)
+      at createDescriptor (file:///D:/administrator/yujing-ai-travel-main/yujing-ai-travel-main/frontend/node_modules/@vitejs/plugin-vue/dist/index.mjs:71:43)
+      at handleHotUpdate (file:///D:/administrator/yujing-ai-travel-main/yujing-ai-travel-main/frontend/node_modules/@vitejs/plugin-vue/dist/index.mjs:2198:26)
+[2m18:35:06[22m [31m[1m[vite][22m[39m [31mInternal server error: Element is missing end tag.[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/administrator/yujing-ai-travel-main/yujing-ai-travel-main/frontend/src/views/Home.vue[39m:2:3
+[33m  1  |  <template>
+  2  |    <div class="home-page">
+     |     ^
+  3  |      <NavBar />
+  4  |  [39m
+      at createCompilerError (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1378:17)
+      at emitError (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3036:5)
+      at Object.onclosetag (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2403:13)
+      at Tokenizer.stateInClosingTagName (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:799:16)
+      at Tokenizer.parse (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1157:16)
+      at Object.baseParse (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3075:13)
+      at Object.parse (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-dom\dist\compiler-dom.cjs.js:916:23)
+      at Object.parse$1 [as parse] (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-sfc\dist\compiler-sfc.cjs.js:1918:24)
+      at createDescriptor (file:///D:/administrator/yujing-ai-travel-main/yujing-ai-travel-main/frontend/node_modules/@vitejs/plugin-vue/dist/index.mjs:71:43)
+      at handleHotUpdate (file:///D:/administrator/yujing-ai-travel-main/yujing-ai-travel-main/frontend/node_modules/@vitejs/plugin-vue/dist/index.mjs:2198:26)
+[2m18:35:06[22m [31m[1m[vite][22m[39m [31mInternal server error: Element is missing end tag.[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/administrator/yujing-ai-travel-main/yujing-ai-travel-main/frontend/src/views/Home.vue[39m:2:3
+[33m  1  |  <template>
+  2  |    <div class="home-page">
+     |     ^
+  3  |      <NavBar />
+  4  |  [39m
+      at createCompilerError (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1378:17)
+      at emitError (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3036:5)
+      at Object.onclosetag (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2403:13)
+      at Tokenizer.stateInClosingTagName (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:799:16)
+      at Tokenizer.parse (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1157:16)
+      at Object.baseParse (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3075:13)
+      at Object.parse (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-dom\dist\compiler-dom.cjs.js:916:23)
+      at Object.parse$1 [as parse] (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-sfc\dist\compiler-sfc.cjs.js:1918:24)
+      at createDescriptor (file:///D:/administrator/yujing-ai-travel-main/yujing-ai-travel-main/frontend/node_modules/@vitejs/plugin-vue/dist/index.mjs:71:43)
+      at handleHotUpdate (file:///D:/administrator/yujing-ai-travel-main/yujing-ai-travel-main/frontend/node_modules/@vitejs/plugin-vue/dist/index.mjs:2198:26)
+[2m18:35:06[22m [31m[1m[vite][22m[39m [31mInternal server error: Element is missing end tag.[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mD:/administrator/yujing-ai-travel-main/yujing-ai-travel-main/frontend/src/views/Home.vue[39m:2:3
+[33m  1  |  <template>
+  2  |    <div class="home-page">
+     |     ^
+  3  |      <NavBar />
+  4  |  [39m
+      at createCompilerError (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1378:17)
+      at emitError (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3036:5)
+      at Object.onclosetag (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2403:13)
+      at Tokenizer.stateInClosingTagName (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:799:16)
+      at Tokenizer.parse (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1157:16)
+      at Object.baseParse (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3075:13)
+      at Object.parse (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-dom\dist\compiler-dom.cjs.js:916:23)
+      at Object.parse$1 [as parse] (D:\administrator\yujing-ai-travel-main\yujing-ai-travel-main\frontend\node_modules\@vue\compiler-sfc\dist\compiler-sfc.cjs.js:1918:24)
+      at createDescriptor (file:///D:/administrator/yujing-ai-travel-main/yujing-ai-travel-main/frontend/node_modules/@vitejs/plugin-vue/dist/index.mjs:71:43)
+      at handleHotUpdate (file:///D:/administrator/yujing-ai-travel-main/yujing-ai-travel-main/frontend/node_modules/@vitejs/plugin-vue/dist/index.mjs:2198:26)
+[2m19:16:42[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/recommend/home[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m19:16:42[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/spot/list?sort=%E7%83%AD%E5%BA%A6%E4%BC%98%E5%85%88[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m19:16:42[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/heritage/list[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m19:27:38[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/recommend/home[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m19:27:38[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/spot/list?sort=%E7%83%AD%E5%BA%A6%E4%BC%98%E5%85%88[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m19:27:38[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/heritage/list[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m19:30:12[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/recommend/home[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m19:30:13[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/spot/list?sort=%E7%83%AD%E5%BA%A6%E4%BC%98%E5%85%88[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m19:30:13[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/heritage/list[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m19:30:40[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/recommend/home[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m19:30:41[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/spot/list?sort=%E7%83%AD%E5%BA%A6%E4%BC%98%E5%85%88[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m19:30:41[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/heritage/list[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
